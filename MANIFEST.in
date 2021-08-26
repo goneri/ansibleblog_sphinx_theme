@@ -1,0 +1,4 @@
+include README.rst LICENSE MANIFEST.in
+include ansibleblog_sphinx_theme/*
+include ansibleblog_sphinx_theme/static/*
+include ansibleblog_sphinx_theme/static/css/*
